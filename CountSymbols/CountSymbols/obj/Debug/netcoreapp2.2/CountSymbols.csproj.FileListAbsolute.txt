@@ -1,0 +1,11 @@
+D:\C#Advanced\CountSymbols\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.deps.json
+D:\C#Advanced\CountSymbols\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.runtimeconfig.json
+D:\C#Advanced\CountSymbols\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.runtimeconfig.dev.json
+D:\C#Advanced\CountSymbols\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.dll
+D:\C#Advanced\CountSymbols\CountSymbols\bin\Debug\netcoreapp2.2\CountSymbols.pdb
+D:\C#Advanced\CountSymbols\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.csprojAssemblyReference.cache
+D:\C#Advanced\CountSymbols\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.csproj.CoreCompileInputs.cache
+D:\C#Advanced\CountSymbols\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.AssemblyInfoInputs.cache
+D:\C#Advanced\CountSymbols\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.AssemblyInfo.cs
+D:\C#Advanced\CountSymbols\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.dll
+D:\C#Advanced\CountSymbols\CountSymbols\obj\Debug\netcoreapp2.2\CountSymbols.pdb

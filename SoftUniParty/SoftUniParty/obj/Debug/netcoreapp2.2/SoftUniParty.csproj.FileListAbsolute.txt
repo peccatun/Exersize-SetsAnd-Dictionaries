@@ -1,0 +1,11 @@
+D:\C#Advanced\SoftUniParty\SoftUniParty\bin\Debug\netcoreapp2.2\SoftUniParty.deps.json
+D:\C#Advanced\SoftUniParty\SoftUniParty\bin\Debug\netcoreapp2.2\SoftUniParty.runtimeconfig.json
+D:\C#Advanced\SoftUniParty\SoftUniParty\bin\Debug\netcoreapp2.2\SoftUniParty.runtimeconfig.dev.json
+D:\C#Advanced\SoftUniParty\SoftUniParty\bin\Debug\netcoreapp2.2\SoftUniParty.dll
+D:\C#Advanced\SoftUniParty\SoftUniParty\bin\Debug\netcoreapp2.2\SoftUniParty.pdb
+D:\C#Advanced\SoftUniParty\SoftUniParty\obj\Debug\netcoreapp2.2\SoftUniParty.csprojAssemblyReference.cache
+D:\C#Advanced\SoftUniParty\SoftUniParty\obj\Debug\netcoreapp2.2\SoftUniParty.csproj.CoreCompileInputs.cache
+D:\C#Advanced\SoftUniParty\SoftUniParty\obj\Debug\netcoreapp2.2\SoftUniParty.AssemblyInfoInputs.cache
+D:\C#Advanced\SoftUniParty\SoftUniParty\obj\Debug\netcoreapp2.2\SoftUniParty.AssemblyInfo.cs
+D:\C#Advanced\SoftUniParty\SoftUniParty\obj\Debug\netcoreapp2.2\SoftUniParty.dll
+D:\C#Advanced\SoftUniParty\SoftUniParty\obj\Debug\netcoreapp2.2\SoftUniParty.pdb
